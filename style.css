@@ -16,3 +16,11 @@ body {
 li {
     list-style: none;
 }
+
+.nav {
+    align-items: center;   
+    display: flex;
+    flex-direction: row;
+    font-size: x-large;
+    
+}
