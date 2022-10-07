@@ -10,3 +10,9 @@ img {
     font-size: x-large;
     margin: 30px;
 }
+body {
+    background-color: #de405a;
+}
+li {
+    list-style: none;
+}
